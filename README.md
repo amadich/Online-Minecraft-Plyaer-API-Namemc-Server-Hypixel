@@ -23,5 +23,14 @@ It will show **True** if the player was found and **False** if it was not found
 
 ###
 Special thanks to the OpenAi ChatGPT development staff who helped design this project
+#
+If you are a Minecraft player on the Hypixel server, you can find me through this information
+```
+Minecraft Name : 6iw
+Minecraft UUID : 1a3b4eb3-b24b-4222-94b6-4ef0ffa62198
+NameMc URL : https://namemc.com/profile/6iw
+Hypixel Profile : https://hypixel.net/members/amadich.2841540/
+Hypixel Rank : [VIP+]
+```
 ![image](https://user-images.githubusercontent.com/74735976/212466003-6bdfba43-b175-48a9-bd0b-f0b3d0ab114c.png)
 #
