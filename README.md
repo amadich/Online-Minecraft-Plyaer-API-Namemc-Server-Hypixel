@@ -1,4 +1,4 @@
-# Online-Minecraft-Plyaer-API-Namemc-Server-Hypixel
+# Online Minecraft Plyaer API-Namemc Server **Hypixel**
 I decided to design a user interface that indicates whether a Minecraft player is on a Hypixel server or not by relying on the UUID 🍃
 ![image](https://user-images.githubusercontent.com/74735976/212465811-3356e66f-7ae9-4a29-bee2-9353c8713a4f.png)
 I'm going to rely on the api namemc that will provide us the users on the Hypixel server with the UUID
