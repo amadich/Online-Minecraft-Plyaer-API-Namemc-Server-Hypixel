@@ -23,7 +23,7 @@ It will show **True** if the player was found and **False** if it was not found
 
 ###
 Special thanks to the OpenAi ChatGPT ![image](https://user-images.githubusercontent.com/74735976/212466526-754ee9ee-408d-4bcc-a574-30eaa09f9e65.png) development staff who helped design this project . 
-Thanks ** NameMc ** ![image](https://user-images.githubusercontent.com/74735976/212466701-6fb3a514-a259-40e2-b13b-dc5ca0fea31a.png) for making the api accessible 🌹🍂 
+Thanks **NameMC** ![image](https://user-images.githubusercontent.com/74735976/212466701-6fb3a514-a259-40e2-b13b-dc5ca0fea31a.png) for making the api accessible .
 #
 If you are a Minecraft player on the Hypixel server, you can find me through this information
 ```
