@@ -17,7 +17,13 @@ searchButton.addEventListener('click', async () => {
 
   if (!searchResults || !searchResults.length) {
 //    searchResultsContainer.innerHTML = '<div class="search-result">No results found</div>';
-    searchResultsContainer.innerHTML = `<div id="no-results" class="search-result">${searchResults}</div>`;
+    if (searchResults == true) {
+      searchResultsContainer.innerHTML = `<div id="results" class="search-result">${searchResults}</div>`;
+    }
+
+    else {
+      searchResultsContainer.innerHTML = `<div id="no-results" class="search-result">${searchResults}</div>`;
+    }
 
     return;
   }

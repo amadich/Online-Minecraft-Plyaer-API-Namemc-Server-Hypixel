@@ -45,4 +45,21 @@
     color:red;
     font-weight:bold;
  }
- 
+
+ #results {
+  color:#45a049;
+  font-weight:bold;
+}
+ .about_f{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+ a {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-decoration: none;
+  animation: rgb_url 3s infinite linear;
+}
+@keyframes rgb_url {
+  0%{color: #45a049;}
+  25%{color: darkslateblue;}
+  50%{color: darkred;}
+  75%{color: blueviolet;}
+  100%{color: #45a049;}
+}
