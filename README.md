@@ -19,7 +19,7 @@ async function search(query) {
 }
 ```
 It will show **True** if the player was found and **False** if it was not found
-![image](https://user-images.githubusercontent.com/74735976/212466147-4b2919b0-0806-4701-a905-231e5fc89414.png)
+![image](https://user-images.githubusercontent.com/74735976/212467375-4cd69e10-7921-49e5-9ae3-96cba1fb5bfa.png)
 
 ###
 Special thanks to the OpenAi ChatGPT ![image](https://user-images.githubusercontent.com/74735976/212466526-754ee9ee-408d-4bcc-a574-30eaa09f9e65.png) development staff who helped design this project . 
